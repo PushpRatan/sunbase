@@ -5,6 +5,10 @@ This is an assignment project for the Java Developer Intern role, built using Sp
 ## Video Demo
 https://drive.google.com/file/d/1jMqgbCisI6slsKKnV1YJRj6IzuAL2U_r/view?usp=sharing
 
+## Login Credentials
+- **ID:** Admin
+- **Password:** Admin@123
+
 ## Tech Stack 
 - Javascript
 - ReactJs
@@ -13,9 +17,6 @@ https://drive.google.com/file/d/1jMqgbCisI6slsKKnV1YJRj6IzuAL2U_r/view?usp=shari
 - JWT Authentication
 - SQL (Database: sunbase)
 
-## Login Credentials
-- **ID:** Admin
-- **Password:** Admin@123
 
 ## Getting Started
 
@@ -27,6 +28,7 @@ Clone this repository to your local machine using the following HTTPS link: [Sun
 
 ### 2. Run server on IntelliJ
 
+- Setup the database in Application.properties
 - Go to the main method in file SunbaseApplication.java
 - Now run the program
 - You can also use command:
